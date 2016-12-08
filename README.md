@@ -19,7 +19,7 @@
 
 	bower install
   
-  npm install gulp -g
+	npm install gulp -g
 
 	gulp serve
 ```
